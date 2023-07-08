@@ -50,6 +50,10 @@
     "size-limit": "^8.2.6",
     "tsdx": "^0.14.1",
     "tslib": "^2.6.0",
-    "typescript": "^5.1.6"
+    "typescript": "^3.9.10"
+  },
+  "dependencies": {
+    "@open-policy-agent/opa-wasm": "^1.8.0",
+    "node-sql-parser": "^4.7.0"
   }
 }
